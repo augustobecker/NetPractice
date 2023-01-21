@@ -16,7 +16,7 @@
 
 <h2 align="center" id="what-is-net-practice"> What is NetPractice? </h2>
 
-The twelfth project at 42 programming school. It consists of 10 system administration related exercises, in each of them you need to configure some small-scale
+The tenth project at 42 programming school. It consists of 10 system administration related exercises, in each of them you need to configure some small-scale
 networks (not real ones). They are available by a training interface. To deliver the project, you must be able to configure networks 
 in 3 different exercises in 15 minutes.
 
